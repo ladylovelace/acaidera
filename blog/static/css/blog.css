@@ -19,6 +19,11 @@ body {
     text-decoration: none;
 }
 
+.page-header h5 {
+    color: #fff;
+    font-size: 10pt;
+    text-decoration: none;
+}
 .content {
     margin-left: 40px;
 }
